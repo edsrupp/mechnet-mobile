@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1e795313eae14ce775acb993b71ff886f56c3c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_80f9b5596c839be2e39d1396d30ec0ae3f337835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c60feba9a0c69bd35cb0a5b4662c6526f76a5ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3183eea6a2f5941ea1beee04aa525e90a56efe9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_6edc9f3e10645b93ad2ee8541f7d576361827865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.3_72ac29c7595beb91409689d9d8399e085e56f89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_100010deb02c311f6e0aec9e2714a1f22df44e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_d42dafdf5cae855897532bd906a4f42d88fe5ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0c16c7be28cedc909b47db9d7a5272fdee7a9a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_161e68f7df884a00b2b9da7bbb1377255b100f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_a3c9230c478becf2c229171d27329c94809deecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ccc553eb02167890c1bd3ce645e5e6f8a27d68f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c0eeb610b08ef9c0797cce1b3ec4c1ca0512117d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_27da77880cb947a84620ad5f857264ef3ad8d57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_70ee6deabf5629d80fadf5db8c2b500ee4e9b1de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_b6ddd88da3ab411c065f6eadd185d3f45c6fa2bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_ddd8486cdced749c83a7dc0bc3ea6c8b141d640b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_bd7a4465f7a728b0cc35a352800b62dbc5edf85a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_d297deca7b1088c348c9cdace9142c0628099d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_095eb1ece40b48f9e4276cf2ef7b0009f9ed8b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_0fc04592ffc5482ccddc5c1cf77e9d7dc188cdd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5cc8279e36ce5e705f23dc7241b6c905d3ab992d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.3_fb1d6339334a010919c1aa63ad62461c9c8e587d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8ba038afe6ac84dbd76f916d7e16bf0478366754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bc5759794953284d96312a2a41750b0a2019888d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4fe401476145ae8fdf62733bb023c9c0077dd4da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a70c5d6d84f656356a6e3bc4233a5faf18ea1591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b3ac862efc6032bbc142ae55544178b5a4539caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8e599f08b7d641faf59cfa0f22a1284c17ae6965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_22088eeb6c4911a170b6b6edac51d647a198abd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3a835671d126c3aea14a5f050df3481b446bbb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_80b512b7db49ac9cc430535c2412eee8d384b67a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/bootstrappin/MechnetMobileUi/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_55f94707892d49c1c5ad39bfb6cf2dfe1c6b29de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/edrupp/usc/mechnetMobile/mechnet-mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b204eefaa34c7d5f7440c101f48822347d4628ba.jar" />
+    </item>
+
+</items>
